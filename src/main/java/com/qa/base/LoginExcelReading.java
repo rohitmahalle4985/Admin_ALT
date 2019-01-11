@@ -1,7 +1,7 @@
 package com.qa.base;
 
 import java.io.FileInputStream;
-//Rohit mahalle
+
 
 //@Test(dataProvider="getloginData")
 
